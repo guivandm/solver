@@ -1,2 +1,4 @@
 # solver
-Still working on my own solution for katamino. There is the code for a half of the game, but it can't be used for the entire solution (not optimized enough).
+Created a file full_katamino.py The execution doesn't show output with solutions (how it should). 
+Based on big.py which took 16 hours to find the all solutions. 
+big.py is a shortened version of katamino.
