@@ -1,6 +1,4 @@
-# solver
-Created a file full_katamino.py The execution doesn't show output with solutions (how it should). 
-Based on big.py which took 16 hours to find the all solutions. 
-big.py is a shortened version of katamino.
+Katamino solver
+More info in the files
 
-full_katamino has many repeated while statements that can be transformed to something more convinient and pythonic, but I don't know how. 
+full file is still running. At the moment of writing (30 october 22) it took 2 weeks...
