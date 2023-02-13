@@ -1,6 +1,6 @@
 Katamino solver
 More info in the files
 
-full file is still running. At the moment of writing (30 october 22) it took 2 weeks...
+It took 100 days to run the full katamino version (full.py). final output.txt only shows taken time, full solutions.txt shows the result of full.py
 
-The code uses one thread only. I'm running with PyPy on Celeron N2830, 8gb RAM.
+The code is one thread only. I used PyPy on Celeron N2830, 8gb RAM.
