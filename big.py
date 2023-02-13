@@ -1,5 +1,3 @@
-# try to run 
-
 # This katamino solver was written for the part of the riddle (8x5). 
 # Input is: a field and figures. In the beginning, point 5 and point 6. In case if quantity of figures changes, the function sltns() in point 5 must be changed, too.
 # Output is:a picture presenting results
